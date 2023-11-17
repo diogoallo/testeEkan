@@ -11,6 +11,7 @@
 	<groupId>br.com.ekan</groupId>
 	<artifactId>planosaude</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
+	<packaging>war</packaging>
 	<name>planosaude</name>
 	<description>MicroServiço de Plano de Saúde</description>
 
